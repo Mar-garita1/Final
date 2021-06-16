@@ -14,10 +14,14 @@ Otro __usuario extremos__ serían mujeres mayores de 55 años, que están intere
 # Y aqui mis antecedentes
 ![Mis antecedentes son estos](/imagenes/antecedentes.jpg)
 
-Link 1er antecedente [aquí](https://www.drivenconsulting.global/personas?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAiAAEgIiFfD_BwE&r_done=1
-)
-Link 2do antecedente
-Link 3der antecedente
-Link 4to antecedente
-Link 5to antecedente
-Link 6to antecedente
+Link 1er antecedente [aquí](https://www.drivenconsulting.global/personas?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAiAAEgIiFfD_BwE&r_done=1)
+
+Link 2do antecedente [aquí](https://www.misfortalezas.cl/?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAyAAEgITKPD_BwE)
+
+Link 3der antecedente [aquí](https://www.misfortalezas.cl/?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAyAAEgITKPD_BwE)
+
+[Link 4to antecedente](https://www.udemy.com/course/como-aumentar-mi-autoestima-desarrollo-personal-autoayuda/?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYBCAAEgLkqPD_BwE&utm_campaign=20180605-Spanish&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords-intl&utm_term=_._ag_55839974120_._kw_cursos+desarrollo+personal+online_._ad_377036618321_._de_c_._dm__._pl__._ti_kwd-497575764690_._li_1003325_._pd__._)
+
+Link 5to antecedente [aquí](https://www.misfortalezas.cl/?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAyAAEgITKPD_BwE)
+
+Link 6to antecedente [aquí](https://www.misfortalezas.cl/?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAyAAEgITKPD_BwE)
