@@ -6,4 +6,4 @@ Un usuario extremo sería mujeres jóvenes menores a 30 años que busquen mirar 
 
 Otro usuario extremos serían mujeres mayores de 55 años, que están interesadas en sentirse realizadas, no quedarse pegadas en las cosas que no hicieron. Sus necesidades son un sitio que sea facil de entender, con mucho espacio al error.
 
-![Mis referentes son estos](/path/to/referentes.jpg)
+![Mis referentes son estos](/imagenes/referentes.jpg)
