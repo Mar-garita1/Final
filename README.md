@@ -14,8 +14,8 @@ Otro __usuario extremos__ serían mujeres mayores de 55 años, que están intere
 # Y aqui mis antecedentes
 ![Mis antecedentes son estos](/imagenes/antecedentes.jpg)
 
-Link 1er antecedente [https://www.drivenconsulting.global/personas?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAiAAEgIiFfD_BwE&r_done=1
-](http://google.com)
+Link 1er antecedente [aquí](https://www.drivenconsulting.global/personas?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAiAAEgIiFfD_BwE&r_done=1
+)
 Link 2do antecedente
 Link 3der antecedente
 Link 4to antecedente
