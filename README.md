@@ -1,4 +1,4 @@
-__##Ejercicio 1__
+###Ejercicio 1
 
 Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
 
@@ -8,7 +8,7 @@ Un __usuario extremo__ sería mujeres jóvenes menores a 30 años que busquen mi
 
 Otro __usuario extremos__ serían mujeres mayores de 55 años, que están interesadas en sentirse realizadas, no quedarse pegadas en las cosas que no hicieron. Sus necesidades son un sitio que sea facil de entender, con mucho espacio al error.
 
-__Aqui están mis referentes__
+##Aqui están mis referentes
 ![Mis referentes son estos](/imagenes/referentes.jpg)
-__Y aqui mis antecedentes__
+##Y aqui mis antecedentes
 ![Mis antecedentes son estos](/imagenes/antecedentes.jpg)
