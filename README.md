@@ -2,7 +2,7 @@
 
 Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
 
-## Mi __usuario promedio__ es Francisca Toro.
+## Mi usuario promedio es Francisca Toro.
 
 ![Usuaria](/imagenes/arq0.jpg)
 
@@ -27,7 +27,7 @@ Potential Solutions:
 - Se puede acceder desde el celular.
 -Controlar mejor sus tiempos y trabajar igual en ella misma.
 
-Un __usuario extremo__ es Sophia Miller.
+## Un usuario extremo es Sophia Miller.
 
 ![Usuaria](/imagenes/arq1.JPG)
 
@@ -49,7 +49,7 @@ Potential Solutions:
 - Ver los videos con subtítulos.
 - Atractivo a simple vista. Estético.
 
-Otro __usuario extremo__ sería Maria López.
+## Otro usuario extremo sería Maria López.
 
 ![Usuaria](/imagenes/arq3.jpg)
 
