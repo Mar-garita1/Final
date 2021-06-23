@@ -29,7 +29,7 @@ Potential Solutions:
 
 Un __usuario extremo__ es Sophia Miller.
 
-![Usuaria](/imagenes/arq1.jpg)
+![Usuaria](/imagenes/arq1.JPG)
 
 Behavior & Demographic:
 
