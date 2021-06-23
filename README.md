@@ -6,7 +6,7 @@ Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer est
 
 ![Usuaria](/imagenes/arq0.jpg)
 
-__Behavior & Demographic:
+__Behavior & Demographic:__
 
 - Es madre de niños adolescentes.
 - Vive en Chile.
