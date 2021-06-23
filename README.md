@@ -6,21 +6,21 @@ Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer est
 
 ![Usuaria](/imagenes/arq0.jpg)
 
-Behavior & Demographic:
+__Behavior & Demographic:
 
 - Es madre de niños adolescentes.
 - Vive en Chile.
 - Trabaja 9 horas al día.
 - Suele estar cansada.
 
-Pain Points & Needs:
+__Pain Points & Needs:
 
 - Sus necesidades son complementar familia con vida laboral.
 - Busca un apoyo emocional, sentirse comprendida entre otras mujeres. 
 - Está interesada en desarrollo personal y trabajar en ella. 
 - A la vez, no tiene tanto tiempo y cuando tiene es en el auto esperando o muy tarde en la noche, etc.
 
-Potential Solutions:
+__Potential Solutions:
 
 - Cursos cortos online.
 - Fáciles de acceder para ver cuando tengan tiempo.
