@@ -13,14 +13,14 @@ __Behavior & Demographic:__
 - Trabaja 9 horas al día.
 - Suele estar cansada.
 
-__Pain Points & Needs:
+__Pain Points & Needs:__
 
 - Sus necesidades son complementar familia con vida laboral.
 - Busca un apoyo emocional, sentirse comprendida entre otras mujeres. 
 - Está interesada en desarrollo personal y trabajar en ella. 
 - A la vez, no tiene tanto tiempo y cuando tiene es en el auto esperando o muy tarde en la noche, etc.
 
-__Potential Solutions:
+__Potential Solutions:__
 
 - Cursos cortos online.
 - Fáciles de acceder para ver cuando tengan tiempo.
@@ -31,19 +31,19 @@ __Potential Solutions:
 
 ![Usuaria](/imagenes/arq1.JPG)
 
-Behavior & Demographic:
+__Behavior & Demographic:__
 
 - Mujer soltera de 26 años.
 - Trabaja y vive sola.
 - No habla español.
 
-Pain Points & Needs:
+__Pain Points & Needs:__
 
 - Busca mirar la vida de manera diferente, un sentido, una nueva motivación. 
 - Le cuesta algo en el ámbito romántico, ya que no encuentra su pareja ideal.
 - Tiene tiempo y le gustan intentar cosas trendy.
 
-Potential Solutions:
+__Potential Solutions:__
 
 - Sitio que pueda modificar el idioma.
 - Ver los videos con subtítulos.
@@ -53,19 +53,20 @@ Potential Solutions:
 
 ![Usuaria](/imagenes/arq3.jpg)
 
-Behavior & Demographic:
+__Behavior & Demographic:__
 
 - Mujer de 65 años.
 - Está retirada.
 - Se separó luego de 40 años de matrimonio.
 
-Pain Points & Needs:
+__Pain Points & Needs:__
 
 - Está interesada en sentirse realizada.
 - No quiere quedarse pegada en las cosas que no hizo. 
 - Busca renovar su vida.
 
-Potential Solutions:
+__Potential Solutions:__
+
 - Sitio fácil de entender.
 - Sitio con mucho espacio al error.
 - Fácil pago.
