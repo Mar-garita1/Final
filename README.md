@@ -4,6 +4,8 @@ Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer est
 
 # Mi __usuario promedio__ es Francisca Toro.
 
+![Usuaria](/imagenes/arq0.jpg)
+
 Behavior & Demographic:
 
 - Es madre de niños adolescentes.
@@ -27,6 +29,8 @@ Potential Solutions:
 
 Un __usuario extremo__ es Sophia Miller.
 
+![Usuaria](/imagenes/arq1.jpg)
+
 Behavior & Demographic:
 
 - Mujer soltera de 26 años.
@@ -47,10 +51,11 @@ Potential Solutions:
 
 Otro __usuario extremo__ sería Maria López.
 
+![Usuaria](/imagenes/arq3.jpg)
 
 Behavior & Demographic:
 
-- Mujer de 55 años.
+- Mujer de 65 años.
 - Está retirada.
 - Se separó luego de 40 años de matrimonio.
 
