@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
+Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página, una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
 
 ## Mi usuario promedio es Francisca Toro.
 
