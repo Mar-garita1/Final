@@ -72,10 +72,10 @@ __Potential Solutions:__
 - Fácil pago.
 
 # Aqui están mis referentes
-![Mis referentes son estos](/imagenes/referentes.jpg)
+![Mis referentes son estos](/imagenes/referentes.png)
 
 # Y aqui mis antecedentes
-![Mis antecedentes son estos](/imagenes/antecedentes.jpg)
+![Mis antecedentes son estos](/imagenes/antecedentes.png)
 
 [Link 1er antecedente](https://www.drivenconsulting.global/personas?gclid=EAIaIQobChMIjpCi1r2c8QIVUgiRCh2yTg0OEAAYAiAAEgIiFfD_BwE&r_done=1)
 
