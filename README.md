@@ -2,12 +2,12 @@
 
 Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
 
-Mi __usuario promedio__ es Maria López
+# Mi __usuario promedio__ es Francisca Toro.
 
 Behavior & Demographic:
 
 - Es madre de niños adolescentes.
-- Vive en latinoamérica.
+- Vive en Chile.
 - Trabaja 9 horas al día.
 - Suele estar cansada.
 
@@ -19,14 +19,51 @@ Pain Points & Needs:
 - A la vez, no tiene tanto tiempo y cuando tiene es en el auto esperando o muy tarde en la noche, etc.
 
 Potential Solutions:
+
 - Cursos cortos online.
 - Fáciles de acceder para ver cuando tengan tiempo.
 - Se puede acceder desde el celular.
 -Controlar mejor sus tiempos y trabajar igual en ella misma.
 
-Un __usuario extremo__ sería mujeres jóvenes menores a 30 años que busquen mirar la vida de manera diferente, buscar un sentido, una nueva motivación. Generalmente a estas usuarias les cuesta algo en el ámbito romántico, ya sea que no se quieren casar pero hay mucha presión, o que no encuentran su pareja ideal, etc. Sus necesidades serían un sitio que se pueda usar en el computador o celular para poder hacerlo donde quieran y cuando quieran.
+Un __usuario extremo__ es Sophia Miller.
 
-Otro __usuario extremos__ serían mujeres mayores de 55 años, que están interesadas en sentirse realizadas, no quedarse pegadas en las cosas que no hicieron. Sus necesidades son un sitio que sea facil de entender, con mucho espacio al error.
+Behavior & Demographic:
+
+- Mujer soltera de 26 años.
+- Trabaja y vive sola.
+- No habla español.
+
+Pain Points & Needs:
+
+- Busca mirar la vida de manera diferente, un sentido, una nueva motivación. 
+- Le cuesta algo en el ámbito romántico, ya que no encuentra su pareja ideal.
+- Tiene tiempo y le gustan intentar cosas trendy.
+
+Potential Solutions:
+
+- Sitio que pueda modificar el idioma.
+- Ver los videos con subtítulos.
+- Atractivo a simple vista. Estético.
+
+Otro __usuario extremo__ sería Maria López.
+
+
+Behavior & Demographic:
+
+- Mujer de 55 años.
+- Está retirada.
+- Se separó luego de 40 años de matrimonio.
+
+Pain Points & Needs:
+
+- Está interesada en sentirse realizada.
+- No quiere quedarse pegada en las cosas que no hizo. 
+- Busca renovar su vida.
+
+Potential Solutions:
+- Sitio fácil de entender.
+- Sitio con mucho espacio al error.
+- Fácil pago.
 
 # Aqui están mis referentes
 ![Mis referentes son estos](/imagenes/referentes.jpg)
