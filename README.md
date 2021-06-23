@@ -2,7 +2,27 @@
 
 Quiero hacer esta página web para la empresa Mujerfaro para __dar a conocer esta empresa y los servicios que ofrece.__ Estos servicios son cursos de crecimiento personal únicamente para mujeres. A la vez busco crear, a través de esta página una comunidad de mujeres que puedan formar una red de apoyo entre ellas mismas.
 
-Mi __usuario promedio__ es mujeres latinoamericanas de 30-45 años aproximadamente, sus necesidades son complementar familia con vida laboral, buscan un apoyo emocional, sentirse comprendidas entre otras mujeres. Están interesadas en desarrollo personal y trabajar en ellas mismas. A la vez, no tienen tanto tiempo como para ir a terapia, por lo que prefieren estas cursos online que pueden hacer cuando tengan tiempo, por lo que otra necesidad serían cursos cortos, fáciles de acceder para ver cuando tengan tiempo.
+Mi __usuario promedio__ es Maria López
+
+Behavior & Demographic:
+
+- Es madre de niños adolescentes.
+- Vive en latinoamérica.
+- Trabaja 9 horas al día.
+- Suele estar cansada.
+
+Pain Points & Needs:
+
+- Sus necesidades son complementar familia con vida laboral.
+- Busca un apoyo emocional, sentirse comprendida entre otras mujeres. 
+- Está interesada en desarrollo personal y trabajar en ella. 
+- A la vez, no tiene tanto tiempo y cuando tiene es en el auto esperando o muy tarde en la noche, etc.
+
+Potential Solutions:
+- Cursos cortos online.
+- Fáciles de acceder para ver cuando tengan tiempo.
+- Se puede acceder desde el celular.
+-Controlar mejor sus tiempos y trabajar igual en ella misma.
 
 Un __usuario extremo__ sería mujeres jóvenes menores a 30 años que busquen mirar la vida de manera diferente, buscar un sentido, una nueva motivación. Generalmente a estas usuarias les cuesta algo en el ámbito romántico, ya sea que no se quieren casar pero hay mucha presión, o que no encuentran su pareja ideal, etc. Sus necesidades serían un sitio que se pueda usar en el computador o celular para poder hacerlo donde quieran y cuando quieran.
 
